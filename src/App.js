@@ -2,12 +2,13 @@ import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom'
 
 import Routes from 'pages/routes'
+import TopBar from 'components/topBar'
 
 function App() {
   return (
     <div>
-      <h3>Welcome to hooks</h3>
       <Router>
+        <TopBar />
         <Routes />
       </Router>
     </div>
