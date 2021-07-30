@@ -2,7 +2,7 @@
   "name": "medium_clone_start",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://s-p-ko.github.io/medium_clone_start/",
+  "homepage": "https://medium-clone-start.pages.dev/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
