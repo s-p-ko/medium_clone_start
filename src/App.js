@@ -1,6 +1,5 @@
 import React from 'react'
-// import { BrowserRouter as Router } from 'react-router-dom'
-import { HashRouter } from 'react-router-dom'
+import { BrowserRouter as Router } from 'react-router-dom'
 
 import Routes from 'routes'
 import TopBar from 'components/topBar'
@@ -11,10 +10,10 @@ function App() {
   return (
     <CurrentUserProvider>
       <CurrentUserChecker>
-        <HashRouter>
+        <Router>
           <TopBar />
           <Routes />
-        </HashRouter>
+        </Router>
       </CurrentUserChecker>
     </CurrentUserProvider>
   )
