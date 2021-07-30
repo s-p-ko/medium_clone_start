@@ -2,7 +2,7 @@
 
 ---
 
-## Задеплоенный проект
+## [Задеплоенный проект](https://s-p-ko.github.io/medium_clone_start/)
 
 ## В качестве примера для разработки, автором курса взят данный учебный [проект](https://angular.realworld.io/), ссылка на [github](https://github.com/gothinkster/realworld)
 
