@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# [[Oleksandr Kocherhin](https://www.udemy.com/user/ejiqpep/)] [React Hooks - Пишем Реальный Проект с Нуля](https://www.udemy.com/course/react-hooks-writing-real-project/) [RUS, 2019]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## Задеплоенный проект
 
-In the project directory, you can run:
+## В качестве примера для разработки, автором курса взят данный учебный [проект](https://angular.realworld.io/), ссылка на [github](https://github.com/gothinkster/realworld)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## При прохождении курса были рассмотрены такие темы:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+* Создание проекта
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Автоформатирование кода
 
-### `npm run build`
+* Устанавливаем роутер
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Добавляем верхнее меню
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Отрисовываем страницу логина
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Use state хук
 
-### `npm run eject`
+* Use state хук для страницы логина
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Use ref
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Use effect
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Реализуем fetch внутри effect хука
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Use fetch хук
 
-## Learn More
+* Создаем use fetch хук
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Страница регистрации
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Сохраняем токен юзера
 
-### Code Splitting
+* Создаем localstorage хук
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Exhaustive deps
 
-### Analyzing the Bundle Size
+* Контекст текущего юзера
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Ошибки валидации
 
-### Making a Progressive Web App
+* Получаем текущего юзера
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Use callback хук
 
-### Advanced Configuration
+* Улучшаем вернее меню
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Создаем фид
 
-### Deployment
+* Реализуем пагинацию
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Добавляем популярные теги
 
-### `npm run build` fails to minify
+* Переключение между фидами
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Реализуем фид по тегу
+
+* Реализуем твой фид
+
+* Страница поста
+
+* Use reducer
+
+* Форма поста
+
+* Создание поста
+
+* Редактирование поста
+
+* Удаление поста
+
+* Страница настроек
+
+* Добавляем в избранное
+
+* Профиль пользователя
+
+* Реализуем статьи пользователя
+
+* Use effect callback
+
+* Настраиваем собственный бекенд API
