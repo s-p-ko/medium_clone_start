@@ -1,4 +1,6 @@
-# [[Oleksandr Kocherhin](https://www.udemy.com/user/ejiqpep/)] [React Hooks - Пишем Реальный Проект с Нуля](https://www.udemy.com/course/react-hooks-writing-real-project/) [RUS, 2019]
+## Прохождение курса 
+
+# [[Oleksandr Kocherhin] React Hooks - Пишем Реальный Проект с Нуля [RUS, 2019]](https://www.udemy.com/course/react-hooks-writing-real-project/)
 
 ---
 
