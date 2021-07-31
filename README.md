@@ -4,9 +4,9 @@
 
 ---
 
-## [Задеплоенный проект](https://s-p-ko.github.io/medium_clone_start/)
+## Проект задеплоен на [pages от cloudflare](https://medium-clone-start.pages.dev/)
 
-## В качестве примера для разработки, автором курса взят данный учебный [проект](https://angular.realworld.io/), ссылка на [github](https://github.com/gothinkster/realworld)
+## Данный курс есть частичная имплементация на React этого [проекта](https://angular.realworld.io/), ссылка на [github](https://github.com/gothinkster/realworld)
 
 
 ## При прохождении курса были рассмотрены такие темы:
